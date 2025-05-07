@@ -1,0 +1,12 @@
+{
+  "name": "springfield-panel-and-paint",
+  "version": "1.0.0",
+  "description": "Springfield Panel and Paint Website",
+  "scripts": {
+    "build:css": "tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2"
+  }
+} 

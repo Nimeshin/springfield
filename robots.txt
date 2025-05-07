@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Disallow admin areas and sensitive files
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /config.php
+Disallow: /db_init.php
+Disallow: /*.sql$
+Disallow: /*.log$
+Disallow: /*.tgz$
+Disallow: /*.tar$
+Disallow: /*.zip$
+Disallow: /*.gz$
+
+# Sitemap location
+Sitemap: https://springfieldpanelandpaint.co.za/sitemap.xml 
