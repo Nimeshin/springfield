@@ -3,9 +3,9 @@ declare(strict_types=1);
 
 // Database configuration
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'spring');
-define('DB_PASSWORD', 'Metrofile2025');
-define('DB_NAME', 'springfield_db');
+define('DB_USERNAME', 'database_username');
+define('DB_PASSWORD', 'database_password');
+define('DB_NAME', 'database_name');
 
 // Add compatibility constants for admin panel
 define('DB_HOST', DB_SERVER);
@@ -29,9 +29,9 @@ try {
 
 // Site settings
 define('SITE_NAME', 'Springfield Panel and Paint');
-define('SITE_EMAIL', 'info@springfieldpanelandpaint.co.za');
-define('SITE_PHONE', '031-827-9977');
-define('SITE_ADDRESS', '82 Intersite Avenue, Unit 5 The Wolds "A", Umgeni Business Park, Durban, KZN');
+define('SITE_EMAIL', 'info@example.com');
+define('SITE_PHONE', 'your-phone-number');
+define('SITE_ADDRESS', 'your-address');
 
 // Error reporting - change to 0 in production
 error_reporting(E_ALL);

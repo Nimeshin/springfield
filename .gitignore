@@ -22,4 +22,11 @@ Thumbs.db
 .env.production.local
 
 # Build files
-npm-debug.log* 
+npm-debug.log*
+
+# Sensitive files with credentials
+config.php
+db_init.php
+database/*.sql
+debug*.php
+*debug.php 
