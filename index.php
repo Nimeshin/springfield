@@ -167,45 +167,38 @@ require_once 'includes/header.php';
         </p>
     
         <div class="mx-auto" style="max-width: 1505px;">
-            <div class="bg-white py-8 px-6 rounded-xl shadow-xl">
-                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8 justify-items-center">
-                    <!-- First row -->
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/gwm.png" alt="GWM/Haval" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/peugeot.png" alt="Peugeot" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/hyundai.png" alt="Hyundai" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/Suzuki.png" alt="Suzuki" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/ford.png" alt="Ford" class="h-12 md:h-16 object-contain">
-                    </div>
-                    
-                    <!-- Second row -->
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/citron.png" alt="Citroen" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/opel.png" alt="Opel" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/renault.png" alt="Renault" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/kia.png" alt="Kia" class="h-12 md:h-16 object-contain">
-                    </div>
-                    
-                    <!-- Third row (for remaining logos) -->
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/jac.png" alt="JAC" class="h-12 md:h-16 object-contain">
-                    </div>
-                    <div class="flex justify-center items-center">
-                        <img src="images/logos/Chevrolet.png" alt="Chevrolet" class="h-12 md:h-16 object-contain">
+            <div class="bg-white py-8 px-6 rounded-xl shadow-xl overflow-hidden">
+                <div class="overflow-hidden">
+                    <div class="flex animate-scroll">
+                        <!-- First set of logos -->
+                        <div class="flex items-center gap-16 mx-12">
+                            <img src="images/logos/gwm.png" alt="GWM/Haval" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/peugeot.png" alt="Peugeot" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/hyundai.png" alt="Hyundai" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/Suzuki.png" alt="Suzuki" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/ford.png" alt="Ford" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/citron.png" alt="Citroen" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/opel.png" alt="Opel" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/renault.png" alt="Renault" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/kia.png" alt="Kia" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/jac.png" alt="JAC" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/Chevrolet.png" alt="Chevrolet" class="h-12 md:h-16 object-contain">
+                        </div>
+                        
+                        <!-- Duplicate set for seamless scrolling -->
+                        <div class="flex items-center gap-16 mx-12">
+                            <img src="images/logos/gwm.png" alt="GWM/Haval" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/peugeot.png" alt="Peugeot" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/hyundai.png" alt="Hyundai" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/Suzuki.png" alt="Suzuki" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/ford.png" alt="Ford" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/citron.png" alt="Citroen" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/opel.png" alt="Opel" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/renault.png" alt="Renault" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/kia.png" alt="Kia" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/jac.png" alt="JAC" class="h-12 md:h-16 object-contain">
+                            <img src="images/logos/Chevrolet.png" alt="Chevrolet" class="h-12 md:h-16 object-contain">
+                        </div>
                     </div>
                 </div>
             </div>
