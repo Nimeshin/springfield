@@ -93,12 +93,12 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
                 <div class="flex flex-col md:flex-row md:h-[400px]">
                     <div class="w-full md:w-1/3">
                         <div class="aspect-w-3 aspect-h-3 md:aspect-none h-full">
-                            <img src="images/Yastiel.jpg" alt="Yastiel Govindasamy" class="w-full h-full object-cover object-center object-top">
+                            <img src="images/Yastiel.jpg" alt="Yastiel Manikam" class="w-full h-full object-cover object-center object-top">
                         </div>
                     </div>
                     <div class="w-full md:w-2/3 p-6 overflow-y-auto">
                         <div class="text-center mb-6">
-                            <h3 class="text-2xl font-bold mb-2">YASTIEL GOVINDASAMY</h3>
+                            <h3 class="text-2xl font-bold mb-2">YASTIEL MANIKAM</h3>
                             <h4 class="text-lg font-semibold text-red-600">GENERAL MANAGER</h4>
                         </div>
                         <p class="text-gray-300 mb-6 text-base">
