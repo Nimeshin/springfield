@@ -142,16 +142,56 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
             At Springfield Panel and Paint, we work with a wide range of insurance companies to provide seamless repairs and ensure the highest regard for your vehicle. As an approved repair center for major insurers, we are proud to be recognized for our high-quality workmanship and professional service.
         </p>
         
-        <!-- Insurance logo strip with adjusted sizes to fit in a single line without scrollbar -->
+        <!-- Insurance logo strip organized in 3 rows of 4 logos each -->
         <div class="max-w-6xl mx-auto">
-            <div class="flex flex-wrap md:flex-nowrap justify-between items-center gap-2 md:gap-3 lg:gap-4 bg-white px-2 py-6 md:px-6 rounded-xl shadow-lg">
-                <img src="images/Insurance logo/discovery.png" alt="Discovery Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/hollard.png" alt="Hollard Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/miway.png" alt="MiWay Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/bryte.png" alt="Bryte Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/sanatam.png" alt="Santam Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/old mutual.png" alt="Old Mutual Insurance" class="h-8 md:h-10 lg:h-12 object-contain">
-                <img src="images/Insurance logo/outsurance.png" alt="Outsurance" class="h-8 md:h-10 lg:h-12 object-contain">
+            <div class="bg-white px-4 py-8 rounded-xl shadow-lg">
+                <!-- First row -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 mb-6">
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/guardrisk.png" alt="GuardRisk" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/discovery.png" alt="Discovery Insurance" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/momentum.png" alt="Momentum" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/bryte.png" alt="Bryte Insurance" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                </div>
+                
+                <!-- Second row -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 mb-6">
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/miway.png" alt="MiWay Insurance" class="h-12 md:h-16 lg:h-20 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/sanatam.png" alt="Santam Insurance" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/old mutual.png" alt="Old Mutual Insurance" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/standard bank.png" alt="Standard Bank Insurance" class="h-12 md:h-16 lg:h-20 object-contain">
+                    </div>
+                </div>
+                
+                <!-- Third row -->
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/hollard.png" alt="Hollard Insurance" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/telesure.png" alt="Telesure" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/outsurance.png" alt="Outsurance" class="h-12 md:h-16 lg:h-20 object-contain">
+                    </div>
+                    <div class="flex justify-center items-center">
+                        <img src="images/Insurance logo/CIB.png" alt="CIB" class="h-10 md:h-12 lg:h-14 object-contain">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
