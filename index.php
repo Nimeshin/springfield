@@ -177,7 +177,7 @@ require_once 'includes/header.php';
                             <img src="images/logos/hyundai.png" alt="Hyundai" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/Suzuki.png" alt="Suzuki" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/ford.png" alt="Ford" class="h-12 md:h-16 object-contain">
-                            <img src="images/logos/citron.png" alt="Citroen" class="h-16 md:h-24 lg:h-28 object-contain">
+                            <img src="images/logos/citron.png" alt="Citroen" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/opel.png" alt="Opel" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/renault.png" alt="Renault" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/kia.png" alt="Kia" class="h-12 md:h-16 object-contain">
@@ -192,7 +192,7 @@ require_once 'includes/header.php';
                             <img src="images/logos/hyundai.png" alt="Hyundai" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/Suzuki.png" alt="Suzuki" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/ford.png" alt="Ford" class="h-12 md:h-16 object-contain">
-                            <img src="images/logos/citron.png" alt="Citroen" class="h-16 md:h-24 lg:h-28 object-contain">
+                            <img src="images/logos/citron.png" alt="Citroen" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/opel.png" alt="Opel" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/renault.png" alt="Renault" class="h-12 md:h-16 object-contain">
                             <img src="images/logos/kia.png" alt="Kia" class="h-12 md:h-16 object-contain">
