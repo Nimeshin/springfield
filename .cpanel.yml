@@ -1,0 +1,14 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/healthrevolution/public_html/
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R includes $DEPLOYPATH
+    - /bin/cp *.php $DEPLOYPATH
+    - /bin/cp *.html $DEPLOYPATH
+    - /bin/cp *.js $DEPLOYPATH
+    # Preserve existing configuration files if they exist
+    - if [ -f $DEPLOYPATH/config.php ]; then echo "Keeping existing config.php"; else /bin/cp config.template.php $DEPLOYPATH/config.php; fi
+    - if [ -f $DEPLOYPATH/db_init.php ]; then echo "Keeping existing db_init.php"; else /bin/cp db_init.template.php $DEPLOYPATH/db_init.php; fi 
