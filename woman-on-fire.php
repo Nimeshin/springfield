@@ -27,7 +27,7 @@ require_once 'includes/header.php';
     <div class="container mx-auto px-4">
         <div class="max-w-5xl mx-auto">
             <h3 class="text-red-500 text-xl md:text-2xl text-center mb-12 font-normal">
-                Founded by visionary leader Rosy Govindasamy, WomanonFire (Pty) Ltd is a proudly South African non-profit organization dedicated to breaking barriers and creating opportunities for women in the automotive industry. Our mission is to light the way for women to not only enter but thrive in a sector traditionally dominated by men.
+                Founded by visionary leader Rosy Manikam, WomanonFire (Pty) Ltd is a proudly South African non-profit organization dedicated to breaking barriers and creating opportunities for women in the automotive industry. Our mission is to light the way for women to not only enter but thrive in a sector traditionally dominated by men.
             </h3>
 
             <div class="grid md:grid-cols-2 gap-8 items-center mb-16">
