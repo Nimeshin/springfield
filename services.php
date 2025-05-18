@@ -284,6 +284,67 @@ require_once 'includes/header.php';
                         <p class="mt-2">If you are sending someone else to collect your vehicle, we need written authorization via email.</p>
                     </div>
                 </div>
+
+                <!-- FAQ Item 9 - Free Towing -->
+                <div class="faq-item border border-gray-700 rounded-lg overflow-hidden">
+                    <button class="faq-question w-full bg-gray-900 px-6 py-4 text-left font-semibold text-lg flex justify-between items-center hover:bg-gray-800 transition" onclick="toggleFaq(this)">
+                        <span>FREE TOWING SERVICE</span>
+                        <svg class="w-5 h-5 transform transition-transform text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                    <div class="faq-answer px-6 py-4 hidden bg-gray-800 text-gray-200">
+                        <p>We offer free trade tow within 40km radius if the vehicle is repaired by us.</p>
+                        <p class="mt-2">This service helps ensure your vehicle gets to our workshop safely and conveniently.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Free Towing Service Section -->
+<section class="py-16 bg-black text-white">
+    <div class="container mx-auto px-4">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-4xl md:text-5xl font-bold mb-6">Ready to Get Your Vehicle Repaired?</h2>
+            <p class="text-xl mb-4 font-light">BIG OR SMALL, WE REPAIR THEM ALL!</p>
+            <p class="text-xl mb-8 font-light">We offer free trade tow within 40km radius IF the vehicle is repaired by us</p>
+            
+            <div class="flex flex-wrap justify-center gap-6 mb-12">
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span>Professional Service</span>
+                </div>
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span>Quick Turnaround</span>
+                </div>
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span>Quality Guaranteed</span>
+                </div>
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span>Free Towing Within 40km Radius</span>
+                </div>
+            </div>
+            
+            <div class="flex justify-center">
+                <a href="contact.php" class="inline-flex items-center bg-primary text-white font-bold py-4 px-8 rounded-lg hover:bg-red-700 transition duration-300 group shadow-lg">
+                    GET A QUOTE
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                    </svg>
+                </a>
             </div>
         </div>
     </div>

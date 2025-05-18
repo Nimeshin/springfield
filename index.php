@@ -311,7 +311,8 @@ require_once 'includes/header.php';
     <div class="container mx-auto px-4 relative">
         <div class="max-w-4xl mx-auto text-center text-white">
             <h2 class="text-4xl md:text-5xl font-bold mb-6">Ready to Get Your Vehicle Repaired?</h2>
-            <p class="text-xl mb-8 font-light">BIG OR SMALL, WE REPAIR THEM ALL!</p>
+            <p class="text-xl mb-4 font-light">BIG OR SMALL, WE REPAIR THEM ALL!</p>
+            <p class="text-xl mb-8 font-light">We offer free trade tow within 40km radius IF the vehicle is repaired by us</p>
             <div class="flex flex-wrap justify-center gap-6 mb-12">
                 <div class="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -330,6 +331,12 @@ require_once 'includes/header.php';
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
                     </svg>
                     <span>Quality Guaranteed</span>
+                </div>
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span>Free Towing Within 40km Radius</span>
                 </div>
             </div>
             <div class="flex justify-center">
