@@ -98,7 +98,7 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
                     </div>
                     <div class="w-full md:w-2/3 p-6 overflow-y-auto">
                         <div class="text-center mb-6">
-                            <h3 class="text-2xl font-bold mb-2">YASTIEL Govindasamy</h3>
+                            <h3 class="text-2xl font-bold mb-2">YASTIEL GOVINDASAMY</h3>
                             <h4 class="text-lg font-semibold text-red-600">GENERAL MANAGER</h4>
                         </div>
                         <p class="text-gray-300 mb-6 text-base">
