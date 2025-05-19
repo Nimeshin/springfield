@@ -20,10 +20,10 @@ require_once 'includes/header.php';
     </div>
 </section>
 
-<!-- WomanonFire Section -->
+<!-- WomanOnFire (Pty) Ltd Section -->
 <section class="bg-black text-white py-16">
     <div class="container mx-auto px-4">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center text-primary">WomanonFire: Igniting Excellence in Auto Body Repairs</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center text-primary">WomanOnFire (Pty) Ltd: Igniting Excellence in Auto Body Repairs</h2>
         
         <div class="flex flex-col md:flex-row items-center gap-8">
             <!-- Left Content -->

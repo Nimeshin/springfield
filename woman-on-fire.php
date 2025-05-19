@@ -12,7 +12,7 @@ require_once 'includes/header.php';
 <section class="relative bg-white py-12 md:py-20">
     <div class="container mx-auto px-4">
         <div class="flex flex-col items-center text-center">
-            <h1 class="text-5xl md:text-6xl font-bold mb-4 text-red-600">Welcome to WomanonFire (PTY)Ltd</h1>
+            <h1 class="text-5xl md:text-6xl font-bold mb-4 text-red-600">Welcome to WomanOnFire (Pty) Ltd</h1>
             <p class="text-xl md:text-2xl mb-8 text-black">Empowering Women in the Autobody Repair Industry</p>
             <a href="contact.php" class="bg-red-600 text-white font-medium py-3 px-12 rounded hover:bg-red-700 transition duration-300 mb-8">CONTACT US</a>
             <div class="flex justify-center">
@@ -27,7 +27,7 @@ require_once 'includes/header.php';
     <div class="container mx-auto px-4">
         <div class="max-w-5xl mx-auto">
             <h3 class="text-red-500 text-xl md:text-2xl text-center mb-12 font-normal">
-                Founded by visionary leader Rosy Manikam, WomanonFire (Pty) Ltd is a proudly South African non-profit organization dedicated to breaking barriers and creating opportunities for women in the automotive industry. Our mission is to light the way for women to not only enter but thrive in a sector traditionally dominated by men.
+                Founded by visionary leader Rosy Manikam, WomanOnFire (Pty) Ltd is a proudly South African non-profit organization dedicated to breaking barriers and creating opportunities for women in the automotive industry. Our mission is to light the way for women to not only enter but thrive in a sector traditionally dominated by men.
             </h3>
 
             <div class="grid md:grid-cols-2 gap-8 items-center mb-16">
@@ -106,7 +106,7 @@ require_once 'includes/header.php';
                         The autobody repair industry has been historically underrepresented by women, yet it is a field full of untapped potential and opportunity. By empowering women to take on roles that range from technicians to shop owners, we're not only changing the industry but also giving women a platform to showcase their talent, strength, and determination.
                     </p>
                     <p>
-                        At WomanonFire (PTY) Ltd, we believe in creating a supportive and inclusive culture where women can confidently build fulfilling careers, break down gender barriers, and make their mark on an industry that is constantly evolving.
+                        At WomanOnFire (Pty) Ltd, we believe in creating a supportive and inclusive culture where women can confidently build fulfilling careers, break down gender barriers, and make their mark on an industry that is constantly evolving.
                     </p>
                 </div>
                 <div>
@@ -130,7 +130,7 @@ require_once 'includes/header.php';
                 <div class="grid md:grid-cols-2 gap-8 items-center">
                     <div class="text-center md:text-left">
                         <p class="mb-6">
-                            Whether you are a woman looking to start or advance your career in autobody repair, or you are an ally who wants to support women in the industry, WomanonFire (PTY) Ltd welcomes you to be part of our community.
+                            Whether you are a woman looking to start or advance your career in autobody repair, or you are an ally who wants to support women in the industry, WomanOnFire (Pty) Ltd welcomes you to be part of our community.
                         </p>
                         <p class="mb-8 font-bold">
                             Let's work together to create a more diverse, inclusive, and empowered future for women in the trades.
