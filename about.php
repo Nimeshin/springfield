@@ -36,7 +36,7 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
 <section class="py-16 bg-black text-white">
     <div class="container mx-auto px-4">
         <div class="max-w-6xl mx-auto text-center">
-            <h3 class="text-red-500 text-xl md:text-2xl text-center mb-12 font-normal">WomanOnFire (PTY) LTD, trading as Springfield Panel and Paint, made its debut in 2013 as a dynamic force in the autobody repair industry.</h3>
+            <h3 class="text-red-500 text-xl md:text-2xl text-center mb-12 font-normal">WomanOnFire (Pty) Ltd, trading as Springfield Panel and Paint, made its debut in 2013 as a dynamic force in the autobody repair industry.</h3>
             
             <div class="prose prose-lg max-w-none prose-invert text-center">
                 <p class="mb-6 text-lg">
@@ -79,7 +79,7 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
                             <h4 class="text-lg font-semibold text-red-600">FOUNDER & CEO</h4>
                         </div>
                         <p class="text-gray-300 mb-6 text-base">
-                            Rosy Manikam began her journey in the auto body repair industry as a teenager, working alongside her stepfather in a panel shop. In 2013, she realized her dream of owning a business by opening Springfield Panel and Paint in Durban, which has since expanded from a small rented space to a 1,000m2 owned facility. Today, her workshop employs 23 staff, with half being women and youth, reflecting her commitment to empowering underrepresented groups. Rosy is also a member of the South African Motor Body Repair Association (SAMBRA) and co-founded the WomanOnFire co-op to support other women in the industry. Despite challenges, she remains dedicated to mentoring, closing the skills gap, and advancing the sector, encouraging women to pursue their dreams with courage and determination.
+                            Rosy Manikam began her journey in the auto body repair industry as a teenager, working alongside her stepfather in a panel shop. In 2013, she realized her dream of owning a business by opening Springfield Panel and Paint in Durban, which has since expanded from a small rented space to a 1,000m2 owned facility. Today, her workshop employs 23 staff, with half being women and youth, reflecting her commitment to empowering underrepresented groups. Rosy is also a member of the South African Motor Body Repair Association (SAMBRA) and co-founded the WomanOnFire (Pty) Ltd co-op to support other women in the industry. Despite challenges, she remains dedicated to mentoring, closing the skills gap, and advancing the sector, encouraging women to pursue their dreams with courage and determination.
                         </p>
                         <div class="text-center">
                             <a href="contact.php" class="inline-block bg-red-600 text-white font-semibold py-2 px-8 rounded hover:bg-red-700 transition text-base uppercase">Contact Us</a>
@@ -98,7 +98,7 @@ if ($galleryResult && $galleryResult->num_rows > 0) {
                     </div>
                     <div class="w-full md:w-2/3 p-6 overflow-y-auto">
                         <div class="text-center mb-6">
-                            <h3 class="text-2xl font-bold mb-2">YASTIEL MANIKAM</h3>
+                            <h3 class="text-2xl font-bold mb-2">YASTIEL Govindasamy</h3>
                             <h4 class="text-lg font-semibold text-red-600">GENERAL MANAGER</h4>
                         </div>
                         <p class="text-gray-300 mb-6 text-base">
